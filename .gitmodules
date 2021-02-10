@@ -1,0 +1,4 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/EmilGedda/linux
+	branch = ebpf-fuzzer
